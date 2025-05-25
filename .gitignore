@@ -3,3 +3,4 @@ venv
 progress.txt
 streets_with_kyrgyz_translations.osm
 streets_with_no_kyrgyz_names_with_metadata_orig.osm
+changes.osc
